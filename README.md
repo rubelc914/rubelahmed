@@ -24,10 +24,10 @@ I'm a passionate Full Stack Web Developer from Bangladesh, currently working on 
 - **CSS Frameworks:** Experience with Bootstrap and Tailwind CSS for responsive design.
 - **Version Control:** Proficient with Git and GitHub for source code management and collaboration.
 
-#### Connect with Me
-[<img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=Facebook&logoColor=white" alt="Facebook logo" height="25" />](https://www.facebook.com/rubelahmedc/) [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn logo" height="25" />](https://www.linkedin.com/in/rubelc914/) [<img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail logo" height="25" />](mailto:rubelc914@gmail.com)
-
 > ### GitHub Stats:
-> ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rubelc914&theme=react&hide_border=true)
-> ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rubelc914&show_icons=true&theme=dark&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rubelc914&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+
+##### 🤝🏻 Connect with Me
+[<img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=Facebook&logoColor=white" alt="Facebook logo" height="25" />](https://www.facebook.com/rubelahmedc/) [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn logo" height="25" />](https://www.linkedin.com/in/rubelc914/) [<img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail logo" height="25" />](mailto:rubelc914@gmail.com)
 
