@@ -29,4 +29,5 @@ I'm a passionate Full Stack Web Developer from Bangladesh, currently working on 
 
 > ### GitHub Stats:
 > ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rubelc914&theme=react&hide_border=true)
-> ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rubelc914&show_icons=true&theme=react&hide_border=true)
+> ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rubelc914&show_icons=true&theme=dark&hide_border=true)
+
