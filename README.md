@@ -2,7 +2,6 @@
 
 <h3 align="center">A Full Stack Software Developer from Bangladesh</h3>
 
-#### Bio
 I'm a passionate Full Stack Web Developer from Bangladesh, currently working on a FinTech product. I focus on creating outstanding and innovative projects. I spend most of my time coding, constantly learning, and pushing the boundaries of web development. As a Software Engineer, I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
 
 #### Technologies I work with
